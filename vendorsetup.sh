@@ -14,4 +14,4 @@
 # limitations under the License.
 #
 
-add_lunch_combo omni_togari-eng
+add_lunch_combo omni_togari_windy-eng

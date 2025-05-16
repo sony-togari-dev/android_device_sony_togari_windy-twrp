@@ -29,7 +29,7 @@ TARGET_BOOTLOADER_BOARD_NAME := C6802
 TARGET_NO_BOOTLOADER := true
 
 # Kernel
-TARGET_KERNEL_CONFIG := lineageos_rhine_togari_row_defconfig
+TARGET_KERNEL_CONFIG := lineageos_rhine_togari_windy_defconfig
 BOARD_KERNEL_BASE := 0x00000000
 BOARD_KERNEL_IMAGE_NAME := zImage-dtb
 BOARD_KERNEL_PAGESIZE := 2048

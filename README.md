@@ -6,7 +6,7 @@ Minimal tree to build TWRP in android-9.0
 
 export ALLOW_MISSING_DEPENDENCIES=true
 
-. build/envsetup.sh && lunch omni_togari-eng
+. build/envsetup.sh && lunch omni_togari_windy-eng
 
 mka adbd recoveryimage
 

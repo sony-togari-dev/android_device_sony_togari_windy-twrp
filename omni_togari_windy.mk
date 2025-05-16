@@ -15,7 +15,7 @@
 #
 
 # Release name
-PRODUCT_RELEASE_NAME := togari
+PRODUCT_RELEASE_NAME := togari_windy
 
 $(call inherit-product, build/target/product/embedded.mk)
 
@@ -27,8 +27,8 @@ PRODUCT_PROPERTY_OVERRIDES += \
     ro.usb.pid_suffix=19C
 
 ## Device identifier. This must come after all inclusions
-PRODUCT_DEVICE := togari
-PRODUCT_NAME := omni_togari
+PRODUCT_DEVICE := togari_windy
+PRODUCT_NAME := omni_togari_windy
 PRODUCT_BRAND := Sony
 PRODUCT_MODEL := Xperia Z Ultra
 PRODUCT_MANUFACTURER := Sony
